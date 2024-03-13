@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Scribble Tool MSDF","order":6,"path":"folders/Scribble Tool MSDF.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"fntNotoSansMSDF","order":4,"path":"fonts/fntNotoSansMSDF/fntNotoSansMSDF.yy",},
+    {"name":"fntNotoSansSDF","order":3,"path":"fonts/fntNotoSansSDF/fntNotoSansSDF.yy",},
+    {"name":"ScribbleToolMSDF","order":1,"path":"scripts/ScribbleToolMSDF/ScribbleToolMSDF.yy",},
+    {"name":"ScribbleToolMSDFExtension","order":2,"path":"extensions/ScribbleToolMSDFExtension/ScribbleToolMSDFExtension.yy",},
+    {"name":"fntNotoSans","order":2,"path":"fonts/fntNotoSans/fntNotoSans.yy",},
+    {"name":"oTest","order":1,"path":"objects/oTest/oTest.yy",},
+  ],
+}

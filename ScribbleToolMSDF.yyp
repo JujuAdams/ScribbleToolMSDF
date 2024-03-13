@@ -1,0 +1,39 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "ScribbleToolMSDF",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scribble Tool MSDF","folderPath":"folders/Scribble Tool MSDF.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.8.2.108",
+  },
+  "resources": [
+    {"id":{"name":"fntNotoSansMSDF","path":"fonts/fntNotoSansMSDF/fntNotoSansMSDF.yy",},},
+    {"id":{"name":"fntNotoSansSDF","path":"fonts/fntNotoSansSDF/fntNotoSansSDF.yy",},},
+    {"id":{"name":"ScribbleToolMSDF","path":"scripts/ScribbleToolMSDF/ScribbleToolMSDF.yy",},},
+    {"id":{"name":"shdScribbleToolMSDF","path":"shaders/shdScribbleToolMSDF/shdScribbleToolMSDF.yy",},},
+    {"id":{"name":"ScribbleToolMSDFExtension","path":"extensions/ScribbleToolMSDFExtension/ScribbleToolMSDFExtension.yy",},},
+    {"id":{"name":"fntNotoSans","path":"fonts/fntNotoSans/fntNotoSans.yy",},},
+    {"id":{"name":"oTest","path":"objects/oTest/oTest.yy",},},
+    {"id":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
